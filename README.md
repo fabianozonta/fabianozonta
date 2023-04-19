@@ -1,4 +1,4 @@
-### Hi there 👋 Looking for work in Python, SQL and Power BI
+Python, SQL and Power BI
 
 <!--
 **fabianozonta/fabianozonta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
