@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript, CSS, HTML and Python. After I will start react and typescript<br>🎯 Goals: first job opportunity where I can apply my skills</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript, CSS, HTML, Python, React and Typescript<br>🎯 Goals: first job opportunity where I can apply my skills</p>
 
 ###
 
