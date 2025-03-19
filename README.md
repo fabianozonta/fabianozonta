@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fabiano Zonta and I'm passionate developer with a foundation in JavaScript, HTML, and CSS. I also have knowledge of Python, although I haven't had professional experience working with it yet. I’m currently looking for my first job opportunity where I can apply my skills and continue to grow as a developer.</p>
+<p align="left">My name is Fabiano Zonta and I'm passionate developer with a foundation in JavaScript, HTML, and CSS. I also have knowledge of Python and SQL and now, I have been focused on cybersecurity, deepening my knowledge in threat analysis, vulnerability assessment, and ethical hacking. I am actively seeking an opportunity to transition into the cybersecurity field as an Analyst or Pentester, where I can apply my technical expertise to protect and secure digital environments..</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript, CSS, HTML, Python, React and Typescript<br>🎯 Goals: first job opportunity where I can apply my skills</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning SOC Analyst, Pentester, JavaScript, CSS, HTML, Python<br>🎯 Goals: first job opportunity where I can apply my skills</p>
 
 ###
 
@@ -27,9 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
