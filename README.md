@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fabiano Zonta and I'm passionate developer with a foundation in JavaScript, HTML, and CSS. I also have knowledge of Python and SQL and now, I have been focused on cybersecurity, deepening my knowledge in threat analysis, vulnerability assessment, and ethical hacking. I am actively seeking an opportunity to transition into the cybersecurity field as an Analyst or Pentester, where I can apply my technical expertise to protect and secure digital environments..</p>
+<p align="left">My name is Fabiano Zonta and I'm passionate developer with a foundation in JavaScript, HTML, and CSS. I also have knowledge of Python and SQL. Now, I have been focused on cybersecurity, deepening my knowledge in threat analysis, vulnerability assessment, and ethical hacking. I am actively seeking an opportunity to transition into the cybersecurity field as an Analyst or Pentester, where I can apply my technical expertise to protect and secure digital environments..</p>
 
 ###
 
