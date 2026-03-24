@@ -12,7 +12,7 @@ For the past year, I have been focused on cybersecurity, deepening my knowledge 
 
 ###
 
-<p align="left">📚 I'm currently learning SOC Analyst, Pentester, JavaScript, CSS, HTML, Python<br>🎯 Goals: first job opportunity where I can apply my skills</p>
+<p align="left">📚 I'm currently  SOC Analyst Junior and Python dev<br>🎯 Goals: first job opportunity where I can apply my skills</p>
 
 ###
 
